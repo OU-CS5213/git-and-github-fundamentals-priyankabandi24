@@ -1,0 +1,2 @@
+Git project serves as a good example of clean, useful commit messages. 
+You can see how the Git maintainers write their commit messages at the Git repository: https://github.com/git/git
